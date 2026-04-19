@@ -1,4 +1,3 @@
-````md
 # 🖥️ Operating System Lab Final
 
 ## 📌 Overview
